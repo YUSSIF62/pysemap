@@ -1,1 +1,3 @@
-print("Welcome Home")
+name = "Yussif Gomda"
+if name == "Yussif Gomda":
+    print(name),
